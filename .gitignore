@@ -1,0 +1,8 @@
+.netrwhist
+.python-version
+*.ttf
+.DS_Store
+gitconfig
+oh-my-zsh
+vim/bundle
+oh-my-zsh/themes/powerlevel9k

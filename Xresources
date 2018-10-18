@@ -1,0 +1,23 @@
+Xft.antialias: 1
+Xft.dpi: 96
+Xft.hinting: 1
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+Xft.rgba: rgb
+
+Xterm*renderFont: true
+XTerm*faceName:Incosolata
+XTerm*faceSize:10
+XTerm*internalBorder:3
+XTerm*scrollBar:false
+XTerm*scrollKey:true
+XTerm*saveLines:1000
+Xterm*MultiClickTime:250
+
+*VT100.colorBDMode:     true
+*VT100.colorBD:         red
+*VT100.colorULMode:     true
+*VT100.colorUL:         cyan
+URxvt.colorIT:      #87af5f
+URxvt.colorBD:      #d7d7d7
+URxvt.colorUL:      #87afd7
